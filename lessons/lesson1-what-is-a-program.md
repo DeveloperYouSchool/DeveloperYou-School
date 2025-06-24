@@ -1,13 +1,6 @@
-# Lesson 1: What Is a Program?
+# Lesson 1: What Is a Program? - Teach Your Computer What To Do
 
 **Level:** Absolute Beginner
-
----
-
-## Lesson Duration
-Approx. 45–60 minutes
-
----
 
 ## Objectives
 
@@ -20,15 +13,7 @@ By the end of this lesson, students will be able to:
 
 ---
 
-## Materials Needed
-
-- A simple everyday item (toaster, coffee maker, etc.)
-- Index cards or sticky notes
-- Markers
-
----
-
-## Introduction (5 min)
+## Introduction  
 
 ### Attention Step:
 Ask: “Have you ever given someone instructions that didn’t turn out the way you expected?”
@@ -41,7 +26,7 @@ When we write a program, we’re not just typing code. We’re solving a problem
 
 ---
 
-## Concept 1: What Is a Program? (10 min)
+## What Is a Program?  
 
 - A set of instructions that a computer follows
 - The computer doesn’t know what you *meant*—only what you *said*
@@ -54,7 +39,7 @@ Discuss how precision and sequencing are essential in computer logic.
 
 ---
 
-## Concept 2: Computers Need Explicit Instructions (10 min)
+## Computers Need Explicit Instructions  
 
 - Emphasize how specific instructions prevent misunderstanding
 - Highlight that code is just one way to express the solution
@@ -64,7 +49,7 @@ Students pair up. One writes instructions for a task (e.g., brushing teeth), and
 
 ---
 
-## Concept 3: Problem Solving Is Programming (10 min)
+## Problem Solving Is Programming  
 
 - Programming starts before the code
 - Identify the problem
@@ -73,7 +58,7 @@ Students pair up. One writes instructions for a task (e.g., brushing teeth), and
 
 ---
 
-## Group Activity: Build a Human Program (10–15 min)
+## Build a Human Program   
 
 - Students create step-by-step instructions to solve a simple problem (e.g., sorting students by age)
 - Write each step on a sticky note or card
@@ -81,15 +66,14 @@ Students pair up. One writes instructions for a task (e.g., brushing teeth), and
 
 ---
 
-## Wrap-Up & Reflection (5 min)
-
-### Discussion Prompts:
+## Wrap-Up & Reflection  
+Reflect on:  
 
 - What surprised you today?
 - How did writing out your thinking help clarify the problem?
 - Could you imagine a computer doing what you asked?
 
-### Exit Prompt:
+### Progress Prompt:
 > “How is your confidence better now than at the beginning of the lesson?”
 (Add a note to your worksheet, like a journal or a snapshot.)
 
