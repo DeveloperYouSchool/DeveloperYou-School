@@ -51,7 +51,7 @@ We believe:
 - **Problem-solving matters more than memorization**  
 - **Real-world developer habits should start early**  
 
-Too many developers learn things like version control, commenting, and code review only after being scolded for not knowing. We’re flipping that script by introducing them early — so students don’t just learn how to code, they learn how to *be* developers.
+Too many developers learn things like version control, commenting, and code review only after being scolded for not knowing something 'they should just know'. We’re flipping that script by introducing them early — so students don’t just learn how to code, they learn how to *be* developers.
 
 > _“Simple code is strong code.”_  
 > This isn’t just our opinion — it’s backed by the very experts who’ve shaped the languages we use.
