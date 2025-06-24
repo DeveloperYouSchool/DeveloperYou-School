@@ -7,28 +7,20 @@ This repository contains the first eight foundational lessons of the DeveloperYo
 ## 📚 Lessons Included
 
 1. **What Is a Program?** – Exploring what code actually *is* and what it does  
-   `lesson1-what-is-a-program.md`
 
 2. **Thinking Out Loud** – Practicing your reasoning before writing your code  
-   `lesson2-thinking-out-loud.md`
 
 3. **Snapshots and Milestones** – Using Git to preserve your learning journey  
-   `lesson3-snapshots-and-milestones.md`
 
 4. **Well, That Didn’t Work** – Learning how to respond when things go wrong  
-   `lesson4-well-that-didnt-work.md`
 
 5. **Say My Name** – Understanding how variables help store and name things  
-   `lesson5-say-my-name.md`
 
 6. **If This, Then What?** – Introducing conditionals and simple logic  
-   `lesson6_if_this_then_what.md`
 
 7. **Loop, You Know?** – Making code repeat with loops  
-   `lesson7_loop_you_know.md`
 
 8. **Why Zero Matters** – Learning how numbers, counting, and indexes work in code  
-   `lesson_8_why_zero_matters.md`
 
 ## 💡 Who This Is For
 
