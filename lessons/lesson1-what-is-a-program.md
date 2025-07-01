@@ -1,83 +1,155 @@
-# Lesson 1: What Is a Program? - Teach Your Computer What To Do
+# Lesson 1: What Is a Program? – Cooking Up Instructions
 
 **Level:** Absolute Beginner
 
-## Objectives
+---
 
-By the end of this lesson, students will be able to:
+## 📘 Vocabulary to Discover
 
-- Explain what a computer program is
-- Describe the relationship between instructions and outcomes
-- Recognize that programming is problem-solving
-- Distinguish between the person writing the code and the computer following it
+Before we name the technical words, here’s what they *mean* in plain English. You’ll connect the dots later.
+
+- A list of steps to tell your program how to act  
+- A subordinate task that your program uses with a list of items required  
+- The information (or items) you give to your program or subordinate task  
+- The information, or product you receive from your program or subordinate task  
+- A single task the computer carries out with no information or items required  
 
 ---
 
-## Introduction  
+## 🎯 Objectives
 
-### Attention Step:
-Ask: “Have you ever given someone instructions that didn’t turn out the way you expected?”
+By the end of this lesson, given real-world analogies and structured group activities, students will be able to:
 
-### Overview:
-We’ll look at what it means to write a computer program—and how writing for computers is different from writing for people.
-
-### Motivation:
-When we write a program, we’re not just typing code. We’re solving a problem and clearly explaining the solution in a way the computer understands.
+- Describe a computer program as a set of instructions or a plan  
+- Write a common task as if it were a program using clear, sequential steps  
+- List specific steps to produce a predictable outcome  
+- Break a complex task into a main plan and subordinate steps  
 
 ---
 
-## What Is a Program?  
+## 🧠 Introduction
 
-- A set of instructions that a computer follows
-- The computer doesn’t know what you *meant*—only what you *said*
-- Programming is about teaching a very literal student
+### Attention Step  
+Ask: “Have you ever followed a recipe and ended up with something totally different than what you expected?”
 
-**Example Activity:**
-Ask students to write down the steps for making toast.
-Then, read their steps *literally*. Point out where things go hilariously wrong.
-Discuss how precision and sequencing are essential in computer logic.
+### Overview  
+In this lesson, we’ll explore what it means to write a computer program—not by learning a new language, but by doing something familiar: planning.
 
----
-
-## Computers Need Explicit Instructions  
-
-- Emphasize how specific instructions prevent misunderstanding
-- Highlight that code is just one way to express the solution
-
-**Mini Exercise:**
-Students pair up. One writes instructions for a task (e.g., brushing teeth), and the other acts it out *exactly*.
+### Motivation  
+Programming is like cooking. You have a goal, ingredients, tools, and a sequence of steps. The computer follows your instructions *exactly*—so your plan matters.
 
 ---
 
-## Problem Solving Is Programming  
+## 📋 Content: Main Teaching Points
 
-- Programming starts before the code
-- Identify the problem
-- Think through a solution
-- Then translate that into code
+### 1. What Is a Program?
 
----
+> A program is a **plan**—a list of instructions the computer follows step-by-step to accomplish a task.
 
-## Build a Human Program   
+Cooking comparison:
+- Decide the goal (make spaghetti)
+- Gather tools and ingredients
+- Follow step-by-step directions
+- Some steps require precision ("boil for 8 minutes")
+- Others delegate ("grate the cheese")
 
-- Students create step-by-step instructions to solve a simple problem (e.g., sorting students by age)
-- Write each step on a sticky note or card
-- Physically act out the steps or review the instructions together
-
----
-
-## Wrap-Up & Reflection  
-Reflect on:  
-
-- What surprised you today?
-- How did writing out your thinking help clarify the problem?
-- Could you imagine a computer doing what you asked?
-
-### Progress Prompt:
-> “How is your confidence better now than at the beginning of the lesson?”
-(Add a note to your worksheet, like a journal or a snapshot.)
+> 💡 In programming, we call a task list that combines steps and subtasks a **program**.
 
 ---
 
-## Next Steps Preview:
-Next lesson: Writing in your own words to plan code with pseudocode.
+### 2. Activity: Recipe Breakdown
+
+**Prompt:** “Write down how to make a sandwich.”
+
+**Demo:** Instructor performs each step *literally*.  
+Examples: putting mustard on sealed bread, holding lettuce without bread, etc.
+
+**Debrief:**  
+- Why did it go wrong?  
+- What would a computer do with these steps?
+
+---
+
+### 3. Programs Are To-Do Lists
+
+- A program is like a to-do list with structure  
+- Steps may include:
+  - Simple actions
+  - Small handoffs
+  - Inputs and outputs
+
+> 💡 A single, specific action like “turn on the oven” is often called a **command** or **statement**.  
+>  
+> 💡 If a step involves handing off work to a helper with a set of items (e.g., “dice these vegetables: onion, pepper, celery”), that’s a **function call**.  
+>  
+> 💡 The items passed in? We call those **inputs**. What you get back? That’s your **output**.
+
+---
+
+### 4. Mini Exercise: Delegating a Function
+
+**Scenario:** You ask your helper to "dice vegetables: onion, pepper, celery."
+
+That’s a **function** with **inputs**. If they return mashed potatoes, something went wrong.
+
+**Paired Activity:**  
+- Partner 1 writes a function and gives inputs  
+- Partner 2 executes *literally*
+
+---
+
+### 5. Programming Is Planning
+
+- You plan before you code  
+- You break the problem down  
+- You test the steps  
+- You can delegate parts using functions  
+
+---
+
+### 6. Build a Human Program
+
+In small groups, students build a program to complete one of the following:
+- Sort classmates by height  
+- Make a peanut butter and jelly sandwich  
+- Create a morning routine  
+- Build a paper airplane  
+
+They must:
+1. Write steps clearly  
+2. Identify inputs  
+3. Delegate at least one step as a function  
+4. Run a dry run or physical test  
+
+---
+
+## 🔁 Wrap-Up & Reflection
+
+**Discussion Prompts:**  
+- What surprised you?  
+- What happened when instructions were vague?  
+- Could a computer follow your program successfully?
+
+**Progress Prompt:**  
+> “How is your confidence better now than at the beginning of the lesson?”  
+(Write a short journal or note.)
+
+---
+
+## 🧩 End-of-Lesson Vocabulary Match
+
+Match the term to the definition:
+
+| Definition | Term |
+|------------|------|
+| A list of steps to tell your program how to act | **Program** |
+| A subordinate task that your program uses with a list of items required | **Function** |
+| The information (or items) you give to your program or subordinate task | **Input** |
+| The information, or product you receive from your program or subordinate task | **Output** |
+| A single task the computer carries out with no information or items required | **Command** |
+
+---
+
+## ⏭️ Next Steps
+
+Next lesson: We’ll plan programs using **pseudocode**—writing your steps in plain English before translating them into real code.
