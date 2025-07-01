@@ -20,7 +20,7 @@ Before we name the technical words, here’s what they *mean* in plain English. 
 
 By the end of this lesson, given real-world analogies and structured group activities, students will be able to:
 
-- Describe a computer program as a set of instructions or a plan  
+- Describe a computer program in non-technical terms  
 - Write a common task as if it were a program using clear, sequential steps  
 - List specific steps to produce a predictable outcome  
 - Break a complex task into a main plan and subordinate steps  
