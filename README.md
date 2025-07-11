@@ -2,6 +2,8 @@
 
 Welcome to DeveloperYou School — where learning to code starts with learning to think.
 
+![Hans in the classroom](./images/Hans_Classroom_small.png)  
+
 This repository contains the first eight foundational lessons of the DeveloperYou School curriculum. These lessons are intentionally designed for absolute beginners and are grounded in the philosophy that learning software development is about more than writing code — it’s about learning to solve problems, build confidence, and develop habits that last.
 
 ## 📚 Lessons Included
