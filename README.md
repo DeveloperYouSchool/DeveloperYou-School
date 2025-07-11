@@ -60,5 +60,5 @@ Too many developers learn things like version control, commenting, and code revi
 > 🧭 Interested in how we design and test our lessons?  
 > Check out our [AI DevRel Field Notes](https://github.com/DeveloperYouSchool/ai-devrel-field-notes).
 
-Learn more at [DeveloperYou School](https://github.com/DeveloperYouSchool)  
+Learn more at [DeveloperYou School](https://DeveloperYouSchool.com)  
 *“Clear. Capable. Confident.” That’s the DeveloperYou way.*
